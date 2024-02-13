@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TP1HelloWorld</string>
+    <string name="hello_message">Hello 51World!</string>
+    <string name="hello_message2">TEST</string>
+    <string name="B2">Boutton 2</string>
+    <string name="B1">Boutton 1</string>
+    <string name="sound_values">70%</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_message">Salut tout le monde!</string>
+    <string name="B2">Boutton 2</string>
+    <string name="B1">Boutton 1</string>
+    <string name="B3">Boutton 3</string>
+
+
+</resources>
