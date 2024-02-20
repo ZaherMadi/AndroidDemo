@@ -24,6 +24,10 @@ public class MainActivity extends AppCompatActivity{
         setContent View(tv);
 //binding.hellotv.setText("oui")
 
+        buildFeatures {
+            viewBinding = true ;
+        }
+
 
         Log.d("MainActivity: ",
         "onCreate");
